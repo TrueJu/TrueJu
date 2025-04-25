@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Languages](https://github.com/TrueJu/TrueJu/blob/generated/metrics.plugin.languages.svg)
+![Metrics](https://raw.githubusercontent.com/TrueJu/TrueJu/main/github-metrics.svg)
+
 
 
 

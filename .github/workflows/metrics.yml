@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "48 * * * *" # Updates daily at 8:00 UTC
+    - cron: "* * * * *"
   workflow_dispatch: # Allows manual trigger
 
 jobs:
