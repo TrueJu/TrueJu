@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrueJu&layout=compact)
+![Languages](https://github.com/yourUsername/yourUsername/blob/generated/metrics.plugin.languages.svg)
+
 
 
 <!--
