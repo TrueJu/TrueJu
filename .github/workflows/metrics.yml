@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "* * * * *" # runs every hour
+    - cron: "0 8 * * *" # runs every hour
   workflow_dispatch:
 
 jobs:
