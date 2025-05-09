@@ -21,6 +21,9 @@ jobs:
           plugin_languages_activity_visibility: all # Check public repositories only
           plugin_languages_activity_limit: 10 # Display up to 10 languages
           plugin_languages_activity_days: 90 # Analyze activity over the last 90 days
+
+          plugin_languages: yes
+          plugin_languages_indepth: yes
           
           # Optional: Configure other general settings
           config_timezone: Europe/Paris # e.g., Europe/Paris
