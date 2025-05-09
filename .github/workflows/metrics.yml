@@ -22,6 +22,7 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_analysis_timeout: 60
           plugin_languages_analysis_timeout_repositories: 15
+          plugin_languages_recent_days: 365
           
           # Optional: Configure other general settings
           config_timezone: Europe/Zurich
