@@ -25,7 +25,6 @@ jobs:
           plugin_languages_recent_days: 365
           plugin_languages_categories: data, markup, programming, prose
           plugin_languages_recent_categories: data, markup, programming, prose
-          repositories_affiliations: collaborator
           plugin_languages_other: Assembly:*.asm, Assembly:*.s, Assembly:*.S
           
           # Optional: Configure other general settings
