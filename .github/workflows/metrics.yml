@@ -17,7 +17,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_indepth: yes
 
-          plugin_languages_ignored: JSON, YAML, XML, Markdown, INI, TOML, Dockerfile, Makefile, Text, CSV, SVG, HTML, TSX, JavaScript, GEDCOM, Shell, Dotenv, PowerShell, Gradle, XML Property List, Ignore List
+          plugin_languages_ignored: JSON, YAML, XML, Markdown, INI, TOML, Dockerfile, Makefile, Text, CSV, SVG, HTML, GEDCOM, Shell, Dotenv, PowerShell, Gradle, XML Property List, Ignore List
           plugin_languages_repos: 1000
           plugin_languages_limit: 8
           plugin_languages_analysis_timeout: 60
@@ -27,6 +27,7 @@ jobs:
           plugin_languages_recent_categories: data, markup, programming, prose
           commits_authoring: Julien Widmer, TrueJu, julien33widmer@gmail.com
           plugin_languages_threshold: 0%
+          plugin_languages_aliases: TSX:TypeScript JavaScript:TypeScript
           
           # Optional: Configure other general settings
           config_timezone: Europe/Zurich
