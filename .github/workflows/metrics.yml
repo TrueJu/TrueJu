@@ -25,7 +25,6 @@ jobs:
           plugin_languages_recent_days: 365
           plugin_languages_categories: data, markup, programming, prose
           plugin_languages_recent_categories: data, markup, programming, prose
-          plugin_languages_other: Assembly:*.asm, Assembly:*.s, Assembly:*.S
           commits_authoring: Julien Widmer, TrueJu, julien33widmer@gmail.com
           
           # Optional: Configure other general settings
