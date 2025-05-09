@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Metrics](https://raw.githubusercontent.com/TrueJu/TrueJu/main/github-metrics.svg)
+![My Languages](./github-metrics.svg)
 
 
 
