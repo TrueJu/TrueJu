@@ -24,7 +24,13 @@ jobs:
 
           plugin_languages: yes
           plugin_languages_indepth: yes
+
+          plugin_languages_ignored: >-
+            JSON, YAML, XML, Markdown, INI, TOML, Dockerfile, Makefile, Text, CSV, SVG, HTML
+          plugin_languages_repos: 1000
+          plugin_languages_limit: 10
+          repositories_affiliations: owner, collaborator, organization_member
           
           # Optional: Configure other general settings
-          config_timezone: Europe/Paris # e.g., Europe/Paris
+          config_timezone: Europe/Zurich
           config_order: languages-activity # Set plugin order if using multiple plugins
