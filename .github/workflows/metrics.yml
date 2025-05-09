@@ -23,7 +23,6 @@ jobs:
           plugin_languages_analysis_timeout: 60
           plugin_languages_analysis_timeout_repositories: 15
           plugin_languages_recent_days: 365
-          plugin_languages_details: lines
           plugin_languages_categories: data, markup, programming, prose
           plugin_languages_recent_categories: data, markup, programming, prose
           repositories_affiliations: collaborator
