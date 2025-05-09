@@ -26,6 +26,7 @@ jobs:
           plugin_languages_categories: data, markup, programming, prose
           plugin_languages_recent_categories: data, markup, programming, prose
           commits_authoring: Julien Widmer, TrueJu, julien33widmer@gmail.com
+          plugin_languages_threshold: 0%
           
           # Optional: Configure other general settings
           config_timezone: Europe/Zurich
