@@ -1,8 +1,6 @@
 name: Metrics
 on:
-  # Schedule updates (each hour)
   schedule: [{cron: "0 0 1 * *"}]
-  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["main"]}
 jobs:
@@ -27,8 +25,6 @@ jobs:
           plugin_languages_recent_categories: data, markup, programming, prose
           commits_authoring: Julien Widmer, TrueJu, julien33widmer@gmail.com
           plugin_languages_threshold: 0%
-          plugin_languages_aliases: TSX:TypeScript JavaScript:TypeScript
           
-          # Optional: Configure other general settings
           config_timezone: Europe/Zurich
-          config_order: languages-activity # Set plugin order if using multiple plugins
+          config_order: languages-activity
