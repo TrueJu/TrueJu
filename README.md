@@ -1,9 +1,9 @@
 # 👋 Hi there, welcome to my GitHub!
 
-Thanks for stopping by!  
-While the metrics and contributions you see below are interesting, please note they **don’t reflect all the repositories I've worked on** — some are private or collaborative projects across different organizations. So take the numbers with a grain of salt. 😄
+Thanks for stopping by!
+While the metrics and contributions you see below are interesting, please note they **don't reflect all the repositories I've worked on** - some are private or collaborative projects across different organizations. So take the numbers with a grain of salt. 😄
 
-Feel free to explore my pinned projects or check out what I’ve been working on recently. If something catches your interest, don’t hesitate to connect or reach out!
+Feel free to explore my pinned projects or check out what I've been working on recently. If something catches your interest, don't hesitate to connect or reach out!
 
 ---
 
