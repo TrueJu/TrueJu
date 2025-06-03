@@ -8,7 +8,7 @@ Feel free to explore my pinned projects or check out what I've been working on r
 ---
 
 📫 **Let's connect:**  
-- [LinkedIn](https://your-linkedin.com](https://www.linkedin.com/in/julien-laurent-widmer/) 
+- [LinkedIn](https://www.linkedin.com/in/julien-laurent-widmer/)
 
 ![My Languages](./github-metrics.svg)
 
