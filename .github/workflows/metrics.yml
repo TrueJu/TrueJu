@@ -19,6 +19,11 @@ jobs:
           config_order: languages, base
           
           base: header
+
+          repositories: 500
+          repositories_batch: 100
+
+          repositories_forks: yes
           
           plugin_languages: yes
           plugin_languages_indepth: yes
